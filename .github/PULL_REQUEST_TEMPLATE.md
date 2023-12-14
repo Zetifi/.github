@@ -12,6 +12,12 @@
 
 <!-- Please describe the tests that you ran to verify your changes. -->
 
+## How will you roll back on failure?
+
+- [ ] Git checkout to the previous release and re-run deployment
+- [ ] Fail forward or hot fix
+- [ ] Other, please describe
+
 ## Checklist:
 
 - [ ] My code follows the style guidelines of this project
