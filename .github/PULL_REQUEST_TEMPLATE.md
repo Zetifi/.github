@@ -14,6 +14,8 @@
 
 ## How will you roll back on failure?
 
+<!-- Please remove the options you will not use. -->
+
 - [ ] Git checkout to the previous release and re-run deployment
 - [ ] Fail forward or hot fix
 - [ ] Other, please describe
