@@ -18,6 +18,10 @@
 - [ ] Fail forward or hot fix
 - [ ] Other, please describe
 
+## Any potential security concerns?
+
+<!-- Please list any concerns that you may have. -->
+
 ## Checklist:
 
 - [ ] My code follows the style guidelines of this project
