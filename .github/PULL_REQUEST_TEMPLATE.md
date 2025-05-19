@@ -15,6 +15,7 @@ Minimum checklist:
 - I have linked my branch or PR with my ticket
 - I have followed the styling and best practice guides found in Confluence
 - I have unit tested new or changed functionality or explained why not
+- I have updated integration testing to cover new features/fixes developed
 - I have reviewed and addressed Security Vulnerabilities against this repository
 ====
 
